@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+🔭 I’m a Front End Developer based in Guangzhou.
+
+🌱 I like Coding and Reading.
+
+😄 Welcome to follow me, I'll Share something about the Front End.
+
 <!--
 **samyzh/samyzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
