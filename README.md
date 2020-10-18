@@ -6,6 +6,7 @@
 🌱 I like Coding and Reading.
 
 😄 Welcome to follow me, I'll Share something about the Front End.
+[![samyzh's github stats](https://github-readme-stats.vercel.app/api?username=samyzh&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **samyzh/samyzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
