@@ -1,6 +1,6 @@
 ### Hi I'm samyzh 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=samyzh&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="DIYgod's github stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=samyzh&show_icons=true&theme=vue&count_private=true" alt="samyzh's github stats"/>
 
 A lovely web developer based in Guangzhou
 
