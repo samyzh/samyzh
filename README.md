@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="left">
   
 🔭 I’m a FE based in Guangzhou.
 
