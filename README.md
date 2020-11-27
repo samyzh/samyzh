@@ -9,7 +9,7 @@
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=samyzh)
 
 </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=samyzh&show_icons=true&theme=vue&count_private=true" alt="samyzh's github stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=samyzh&show_icons=true&theme=vue&count_private=true"/>
 
 <!-- ![Vben's github stats](https://github-readme-stats.vercel.app/api?username=samyzh&show_icons=true&theme=vue&count_private=true)-->
 
