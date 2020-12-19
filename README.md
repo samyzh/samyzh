@@ -6,7 +6,7 @@
 
 - 🌱 I like Coding.
 
-- 📫 Read more about my [Blog](https://samyz.cn/)
+- 📫 Read more about my [Note](https://samyz.cn/)
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=samyzh)
 
