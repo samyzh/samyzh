@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=samyzh&show_icons=true&theme=vue&count_private=true" alt="samyzh's github stats"/>
 
-- 🔭 I’m a Full End based in Guangzhou.
+- 🔭 I’m a Full End based in GZ.
 
 - 🌱 I like Coding.
 
